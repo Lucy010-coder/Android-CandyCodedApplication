@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -146,22 +147,22 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="574" y="141" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1599998869164" />
-    <state width="1307" height="210" key="GridCell.Tab.0.bottom" timestamp="1600004377284">
+    <state width="537" height="327" key="GridCell.Tab.0.bottom" timestamp="1600006904975">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1307" height="210" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1600004377284" />
-    <state width="1307" height="210" key="GridCell.Tab.0.center" timestamp="1600004377283">
+    <state width="537" height="327" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1600006904975" />
+    <state width="537" height="327" key="GridCell.Tab.0.center" timestamp="1600006904975">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1307" height="210" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1600004377283" />
-    <state width="1307" height="210" key="GridCell.Tab.0.left" timestamp="1600004377283">
+    <state width="537" height="327" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1600006904975" />
+    <state width="537" height="327" key="GridCell.Tab.0.left" timestamp="1600006904975">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1307" height="210" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1600004377283" />
-    <state width="1307" height="210" key="GridCell.Tab.0.right" timestamp="1600004377284">
+    <state width="537" height="327" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1600006904975" />
+    <state width="537" height="327" key="GridCell.Tab.0.right" timestamp="1600006904975">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1307" height="210" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1600004377284" />
+    <state width="537" height="327" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1600006904975" />
     <state x="548" y="145" key="git4idea.branch.GitSmartOperationDialog" timestamp="1599997538700">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
